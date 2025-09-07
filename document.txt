@@ -1,5 +1,6 @@
 configuracion initial
 
 primera linea en main
-segunda linea en dev
 seunda linea de codigo en main
+segunda linea en dev
+tercera linea perteneciente a dev
