@@ -1,1 +1,3 @@
 configuracion initial
+
+primera linea en main
